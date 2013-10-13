@@ -1,0 +1,67 @@
+{
+	"projects": [
+		{
+			"title": "C++ Snippets",
+			"url": "http://instilledbee.net/cpp",
+			"img": "img/proj_cpp.jpg",
+			"desc": "Repository of beginner-targeted C++ programs. Covers topics from basic programming logic and C/C++ syntax."
+		},
+		
+		{
+			"title": "Java Snippets",
+			"url": "http://instilledbee.net/java",
+			"img": "img/proj_java.jpg",
+			"desc": "Repository of beginner-targeted Java programs. Covers topics from basic programming logic and <a href=\"http://en.wikipedia.org/wiki/Java_(programming_language)\">Java</a> syntax and semantics, as well as a bit of OOP."
+		},
+		
+		{
+			"title": "Project: Awsm RPG",
+			"url": "http://awsmrpg.wordpress.com",
+			"img": "img/proj_awsmrpg.jpg",
+			"desc": "An ambitious one-man indie RPG being developed in C#/SFML.Net from scratch. Blog contains dev news, updates and preview media."
+		},
+		
+		{
+			"title": "Numerical Integration",
+			"url": "http://instilledbee.net/numerical-integration",
+			"img": "img/proj_numint.jpg",
+			"desc": "Made for a class homework in a <a href=\"http://en.wikipedia.org/wiki/Numerical_analysis\">Numerical Methods</a> course. A JavaScript application of two numerical integration methods, namely the <a href=\"http://www.mathwords.com/t/trapezoid_rule.htm\">Trapezoidal Rule</a> and <a href=\"http://en.wikipedia.org/wiki/Rectangle_method\">Left/Right Endpoint Approximation</a>. Comes with a bit of jQuery too I guess."
+		},
+		
+		{
+			"title": "RPG Calculator",
+			"url": "http://instilledbee.net/rpgcalc",
+			"img": "img/proj_rpgcalc.jpg",
+			"desc": "Made to curb a mathcraft/theorycraft nerd's OCD tendencies. A convenient way to compute various RPG statistics, such as HP and EXP.<br/><br/>Dunno exactly what other people would use this for, but eh, I'll put it up anyways."
+		},
+		
+		{
+			"title": "Omega Calculator",
+			"url": "http://instilledbee.net/omegacalc",
+			"img": "img/proj_omega.jpg",
+			"desc": "Made out of frustration from playing too much <a href=\"http://en.wikipedia.org/wiki/Chocobo_(series)#Games\">Chocobo's Dungeon 2</a>. A quick and dirty way to determine how many 'Empty Bottles' are needed to acquire Omega Essence from the boss of the same name.<br/><br/>The tool itself was crudely coded in a rush within a few minutes, so excuse the appearance."
+		},
+		
+		{
+			"title": "Coding Styles Page",
+			"url": "http://instilledbee.net/coding-styles",
+			"img": "img/proj_cstyles.jpg",
+			"desc": "My first attempt at dabbling with flat design. Made from scratch without images. Also serves as a personal (yet public) reference to the semantic coding styles I adhere to.<br/><br/>Currently only contains C++ coding styles, but I'll add styles for other languages (eventually)."
+		},
+		
+		{
+			"title": "Class Schedule",
+			"url": "http://instilledbee.net/sched",
+			"img": "img/proj_sched.jpg",
+			"desc": "A minor Javascript experiment involving tooltips, and a minor CSS experiment involving image-less design."
+		},
+		
+		{
+			"title": "CSS Zen Garden Sample",
+			"url": "http://instilledbee.net/zengarden",
+			"img": "img/proj_zengarden.jpg",
+			"desc": "An attempt at joining the <a href=\"http://www.csszengarden.com\">CSS Zen Garden</a>. The submission wasn't accepted (the site wasn't being actively updated when I tried to submit, but meh), but I still view this as a decent XHTML/CSS2 learning experience.<br/><br/>Now that the CSS Zen Garden site is updated (there's a <a href=\"https://github.com/mezzoblue/csszengarden.com\">GitHub repo</a> now!), I'll probably try to re-do an HTML5/CSS3 version."
+		}
+		
+	]
+}
