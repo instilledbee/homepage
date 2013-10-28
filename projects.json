@@ -29,6 +29,13 @@
 		},
 		
 		{
+			"title": "Color of the Day",
+			"url": "http://instilledbee.net/projects/coloroftheday",
+			"img": "img/proj_cotd.jpg",
+			"desc": "An eccentric JavaScript project involving mapping dates to unique hex color codes. Pretty spiffy I guess."
+		},
+		
+		{
 			"title": "RPG Calculator",
 			"url": "http://instilledbee.net/projects/rpgcalc",
 			"img": "img/proj_rpgcalc.jpg",
