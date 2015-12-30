@@ -1,7 +1,9 @@
+**Notice: This is a repository for an old version of instilledbee.net. I'll try to upload a repo of the new website once I clean up the code.**
+
 about
 ========
 
-Markup/JS code for instilledbee.net's "mini-portfolio" homepage. Built from scratch using HTML5, CSS3 and jQuery. Uses code from Sticky-Kit (http://leafo.net/sticky-kit/) and Google Web Fonts
+Old Markup/JS code for instilledbee.net's "mini-portfolio" homepage. Built from scratch using HTML5, CSS3 and jQuery. Uses code from Sticky-Kit (http://leafo.net/sticky-kit/) and Google Web Fonts
 
 files
 ========
